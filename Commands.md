@@ -33,6 +33,13 @@ LWC's comamnd system allows you to do almost everything you would need to from e
         <td> lwc.info </td>
         <td> Views information about a protection </td>
     </tr>
+
+    <tr>
+        <td> lwc modify &lt;ARGS&gt; </td>
+        <td> <code>cmodify</code> </td>
+        <td> lwc.modify </td>
+        <td> Modifies a protection by adding or removing roles that can access it. For example to **add a player & a group**: <code>/cmodify owner Hidendra member g:mayors</code>. To **remove them**: <code>/cmodify -hidendra -g:mayors</code> </td>
+    </tr>
 </table>
 
 ## Attribute commands
