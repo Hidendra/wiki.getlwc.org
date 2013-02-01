@@ -8,8 +8,17 @@ Grab LWC. Download LWC for your server software from the [RELEASE SITE](test). *
 
 ## Step 2
 
-Start (or restart) your server
+Place the jar file in the plugins/mods folder specific to your mod:
+
+* **Bukkit**: <code>plugins</code>
+* **Spout**: <code>plugins</code>
+* **Canary / Crow**: <code>plugins</code> *Rename the jar to LWC.jar and add LWC to your plugins= line!*
+* **Forge**: <code>coremods</code> *some very important features will **NOT** work if placed in mods!*
 
 ## Step 3
 
-There is no step 3. Party!
+Start (or restart) your server
+
+## Step 4
+
+There is no step 4. Party!

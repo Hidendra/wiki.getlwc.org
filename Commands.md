@@ -1,4 +1,4 @@
-LWC's comamnd system allows you to do almost everything you would need to from either in-game or the command line.
+LWC's command system allows you to do almost everything you would need to from either in-game or the command line.
 
 * Arguments surrounded with &lt;&gt; are required
 * Arguments surrounded with [] are optional
